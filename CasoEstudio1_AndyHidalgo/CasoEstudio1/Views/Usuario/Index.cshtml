@@ -1,0 +1,40 @@
+﻿@model List<AgileBoard.Web.Models.UsuarioViewModel>
+
+<div class="container mt-4">
+    <h2>Usuario</h2>
+
+    <form method="post" action="/Usuario/Create" class="row g-2 mb-4">
+        <div class="col-auto">
+            <input name="Nombre" placeholder="Nombre" class="form-control" maxlength="25" required />
+        </div>
+        <div class="col-auto">
+            <input name="Apellidos" placeholder="Apellidos" class="form-control" maxlength="50" required />
+        </div>
+        <div class="col-auto">
+            <input name="Email" placeholder="Email" type="email" class="form-control" maxlength="100" required />
+        </div>
+        <div class="col-auto">
+            <button type="submit" class="btn btn-primary">Crear usuario</button>
+        </div>
+    </form>
+
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Nombre</th>
+                <th>Apellidos</th>
+                <th>Email</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var u in Model)
+            {
+                <tr>
+                    <td>@u.Nombre</td>
+                    <td>@u.Apellidos</td>
+                    <td>@u.Email</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

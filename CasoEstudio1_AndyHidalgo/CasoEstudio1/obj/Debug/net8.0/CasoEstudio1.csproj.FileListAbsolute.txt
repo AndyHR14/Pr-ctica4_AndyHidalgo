@@ -1,0 +1,8 @@
+C:\Projects\PAW_7Cuatri\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Projects\PAW_7Cuatri\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\CasoEstudio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\PAW_7Cuatri\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\CasoEstudio1.AssemblyInfoInputs.cache
+C:\Projects\PAW_7Cuatri\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\CasoEstudio1.AssemblyInfo.cs
+C:\Projects\PAW_7Cuatri\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\CasoEstudio1.csproj.CoreCompileInputs.cache
+C:\Projects\PAW_7Cuatri\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\CasoEstudio1.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\PAW_7Cuatri\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\CasoEstudio1.RazorAssemblyInfo.cache
+C:\Projects\PAW_7Cuatri\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\CasoEstudio1.RazorAssemblyInfo.cs

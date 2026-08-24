@@ -1,0 +1,845 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{135B9740-3384-6247-FDB9-C4DF073BE8B7}|CasoEstudio1\\AgileBoard.Web.csproj|c:\\users\\andy\\downloads\\actividadperusall_andyhidalgo (1)\\actividadperusall_andyhidalgo\\casoestudio1_andyhidalgo\\casoestudio1\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{135B9740-3384-6247-FDB9-C4DF073BE8B7}|CasoEstudio1\\AgileBoard.Web.csproj|solutionrelative:casoestudio1\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9331296E-AA4C-038D-EDAE-1309B563F136}|StoryAPI\\StoryAPI.csproj|c:\\users\\andy\\downloads\\actividadperusall_andyhidalgo (1)\\actividadperusall_andyhidalgo\\casoestudio1_andyhidalgo\\storyapi\\services\\pokemonestimacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9331296E-AA4C-038D-EDAE-1309B563F136}|StoryAPI\\StoryAPI.csproj|solutionrelative:storyapi\\services\\pokemonestimacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9331296E-AA4C-038D-EDAE-1309B563F136}|StoryAPI\\StoryAPI.csproj|c:\\users\\andy\\downloads\\actividadperusall_andyhidalgo (1)\\actividadperusall_andyhidalgo\\casoestudio1_andyhidalgo\\storyapi\\services\\estimacionbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9331296E-AA4C-038D-EDAE-1309B563F136}|StoryAPI\\StoryAPI.csproj|solutionrelative:storyapi\\services\\estimacionbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9331296E-AA4C-038D-EDAE-1309B563F136}|StoryAPI\\StoryAPI.csproj|c:\\users\\andy\\downloads\\actividadperusall_andyhidalgo (1)\\actividadperusall_andyhidalgo\\casoestudio1_andyhidalgo\\storyapi\\services\\fibonacciestimacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9331296E-AA4C-038D-EDAE-1309B563F136}|StoryAPI\\StoryAPI.csproj|solutionrelative:storyapi\\services\\fibonacciestimacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9331296E-AA4C-038D-EDAE-1309B563F136}|StoryAPI\\StoryAPI.csproj|c:\\users\\andy\\downloads\\actividadperusall_andyhidalgo (1)\\actividadperusall_andyhidalgo\\casoestudio1_andyhidalgo\\storyapi\\services\\userstoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9331296E-AA4C-038D-EDAE-1309B563F136}|StoryAPI\\StoryAPI.csproj|solutionrelative:storyapi\\services\\userstoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9331296E-AA4C-038D-EDAE-1309B563F136}|StoryAPI\\StoryAPI.csproj|c:\\users\\andy\\downloads\\actividadperusall_andyhidalgo (1)\\actividadperusall_andyhidalgo\\casoestudio1_andyhidalgo\\storyapi\\controllers\\userstorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9331296E-AA4C-038D-EDAE-1309B563F136}|StoryAPI\\StoryAPI.csproj|solutionrelative:storyapi\\controllers\\userstorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9331296E-AA4C-038D-EDAE-1309B563F136}|StoryAPI\\StoryAPI.csproj|c:\\users\\andy\\downloads\\actividadperusall_andyhidalgo (1)\\actividadperusall_andyhidalgo\\casoestudio1_andyhidalgo\\storyapi\\commands\\updatestatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9331296E-AA4C-038D-EDAE-1309B563F136}|StoryAPI\\StoryAPI.csproj|solutionrelative:storyapi\\commands\\updatestatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9331296E-AA4C-038D-EDAE-1309B563F136}|StoryAPI\\StoryAPI.csproj|c:\\users\\andy\\downloads\\actividadperusall_andyhidalgo (1)\\actividadperusall_andyhidalgo\\casoestudio1_andyhidalgo\\storyapi\\commands\\createuserstorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9331296E-AA4C-038D-EDAE-1309B563F136}|StoryAPI\\StoryAPI.csproj|solutionrelative:storyapi\\commands\\createuserstorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9331296E-AA4C-038D-EDAE-1309B563F136}|StoryAPI\\StoryAPI.csproj|c:\\users\\andy\\downloads\\actividadperusall_andyhidalgo (1)\\actividadperusall_andyhidalgo\\casoestudio1_andyhidalgo\\storyapi\\commands\\icommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9331296E-AA4C-038D-EDAE-1309B563F136}|StoryAPI\\StoryAPI.csproj|solutionrelative:storyapi\\commands\\icommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9331296E-AA4C-038D-EDAE-1309B563F136}|StoryAPI\\StoryAPI.csproj|c:\\users\\andy\\downloads\\actividadperusall_andyhidalgo (1)\\actividadperusall_andyhidalgo\\casoestudio1_andyhidalgo\\storyapi\\services\\userstorybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9331296E-AA4C-038D-EDAE-1309B563F136}|StoryAPI\\StoryAPI.csproj|solutionrelative:storyapi\\services\\userstorybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135B9740-3384-6247-FDB9-C4DF073BE8B7}|CasoEstudio1\\AgileBoard.Web.csproj|c:\\users\\andy\\downloads\\actividadperusall_andyhidalgo (1)\\actividadperusall_andyhidalgo\\casoestudio1_andyhidalgo\\casoestudio1\\models\\usuarioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{135B9740-3384-6247-FDB9-C4DF073BE8B7}|CasoEstudio1\\AgileBoard.Web.csproj|solutionrelative:casoestudio1\\models\\usuarioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135B9740-3384-6247-FDB9-C4DF073BE8B7}|CasoEstudio1\\AgileBoard.Web.csproj|c:\\users\\andy\\downloads\\actividadperusall_andyhidalgo (1)\\actividadperusall_andyhidalgo\\casoestudio1_andyhidalgo\\casoestudio1\\models\\userstoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{135B9740-3384-6247-FDB9-C4DF073BE8B7}|CasoEstudio1\\AgileBoard.Web.csproj|solutionrelative:casoestudio1\\models\\userstoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135B9740-3384-6247-FDB9-C4DF073BE8B7}|CasoEstudio1\\AgileBoard.Web.csproj|c:\\users\\andy\\downloads\\actividadperusall_andyhidalgo (1)\\actividadperusall_andyhidalgo\\casoestudio1_andyhidalgo\\casoestudio1\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{135B9740-3384-6247-FDB9-C4DF073BE8B7}|CasoEstudio1\\AgileBoard.Web.csproj|solutionrelative:casoestudio1\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135B9740-3384-6247-FDB9-C4DF073BE8B7}|CasoEstudio1\\AgileBoard.Web.csproj|c:\\users\\andy\\downloads\\actividadperusall_andyhidalgo (1)\\actividadperusall_andyhidalgo\\casoestudio1_andyhidalgo\\casoestudio1\\services\\iusuarioapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{135B9740-3384-6247-FDB9-C4DF073BE8B7}|CasoEstudio1\\AgileBoard.Web.csproj|solutionrelative:casoestudio1\\services\\iusuarioapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9331296E-AA4C-038D-EDAE-1309B563F136}|StoryAPI\\StoryAPI.csproj|c:\\users\\andy\\downloads\\actividadperusall_andyhidalgo (1)\\actividadperusall_andyhidalgo\\casoestudio1_andyhidalgo\\storyapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9331296E-AA4C-038D-EDAE-1309B563F136}|StoryAPI\\StoryAPI.csproj|solutionrelative:storyapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9331296E-AA4C-038D-EDAE-1309B563F136}|StoryAPI\\StoryAPI.csproj|c:\\users\\andy\\downloads\\actividadperusall_andyhidalgo (1)\\actividadperusall_andyhidalgo\\casoestudio1_andyhidalgo\\storyapi\\dtos\\createuserstorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9331296E-AA4C-038D-EDAE-1309B563F136}|StoryAPI\\StoryAPI.csproj|solutionrelative:storyapi\\dtos\\createuserstorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9331296E-AA4C-038D-EDAE-1309B563F136}|StoryAPI\\StoryAPI.csproj|c:\\users\\andy\\downloads\\actividadperusall_andyhidalgo (1)\\actividadperusall_andyhidalgo\\casoestudio1_andyhidalgo\\storyapi\\dtos\\createusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9331296E-AA4C-038D-EDAE-1309B563F136}|StoryAPI\\StoryAPI.csproj|solutionrelative:storyapi\\dtos\\createusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135B9740-3384-6247-FDB9-C4DF073BE8B7}|CasoEstudio1\\AgileBoard.Web.csproj|c:\\users\\andy\\downloads\\actividadperusall_andyhidalgo (1)\\actividadperusall_andyhidalgo\\casoestudio1_andyhidalgo\\casoestudio1\\services\\ipokeapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{135B9740-3384-6247-FDB9-C4DF073BE8B7}|CasoEstudio1\\AgileBoard.Web.csproj|solutionrelative:casoestudio1\\services\\ipokeapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135B9740-3384-6247-FDB9-C4DF073BE8B7}|CasoEstudio1\\AgileBoard.Web.csproj|c:\\users\\andy\\downloads\\actividadperusall_andyhidalgo (1)\\actividadperusall_andyhidalgo\\casoestudio1_andyhidalgo\\casoestudio1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{135B9740-3384-6247-FDB9-C4DF073BE8B7}|CasoEstudio1\\AgileBoard.Web.csproj|solutionrelative:casoestudio1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135B9740-3384-6247-FDB9-C4DF073BE8B7}|CasoEstudio1\\AgileBoard.Web.csproj|c:\\users\\andy\\downloads\\actividadperusall_andyhidalgo (1)\\actividadperusall_andyhidalgo\\casoestudio1_andyhidalgo\\casoestudio1\\services\\ipokeavatarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{135B9740-3384-6247-FDB9-C4DF073BE8B7}|CasoEstudio1\\AgileBoard.Web.csproj|solutionrelative:casoestudio1\\services\\ipokeavatarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9331296E-AA4C-038D-EDAE-1309B563F136}|StoryAPI\\StoryAPI.csproj|c:\\users\\andy\\downloads\\actividadperusall_andyhidalgo (1)\\actividadperusall_andyhidalgo\\casoestudio1_andyhidalgo\\storyapi\\services\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9331296E-AA4C-038D-EDAE-1309B563F136}|StoryAPI\\StoryAPI.csproj|solutionrelative:storyapi\\services\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718F5547-CEEF-497C-BE97-8DEA4D58655F}|PokeAPI\\PokeAPI\\PokeAPI.csproj|c:\\users\\andy\\downloads\\actividadperusall_andyhidalgo (1)\\actividadperusall_andyhidalgo\\casoestudio1_andyhidalgo\\pokeapi\\pokeapi\\pokeapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{718F5547-CEEF-497C-BE97-8DEA4D58655F}|PokeAPI\\PokeAPI\\PokeAPI.csproj|solutionrelative:pokeapi\\pokeapi\\pokeapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718F5547-CEEF-497C-BE97-8DEA4D58655F}|PokeAPI\\PokeAPI\\PokeAPI.csproj|c:\\users\\andy\\downloads\\actividadperusall_andyhidalgo (1)\\actividadperusall_andyhidalgo\\casoestudio1_andyhidalgo\\pokeapi\\pokeapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{718F5547-CEEF-497C-BE97-8DEA4D58655F}|PokeAPI\\PokeAPI\\PokeAPI.csproj|solutionrelative:pokeapi\\pokeapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135B9740-3384-6247-FDB9-C4DF073BE8B7}|CasoEstudio1\\AgileBoard.Web.csproj|c:\\users\\andy\\downloads\\actividadperusall_andyhidalgo (1)\\actividadperusall_andyhidalgo\\casoestudio1_andyhidalgo\\casoestudio1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{135B9740-3384-6247-FDB9-C4DF073BE8B7}|CasoEstudio1\\AgileBoard.Web.csproj|solutionrelative:casoestudio1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9331296E-AA4C-038D-EDAE-1309B563F136}|StoryAPI\\StoryAPI.csproj|c:\\users\\andy\\downloads\\actividadperusall_andyhidalgo (1)\\actividadperusall_andyhidalgo\\casoestudio1_andyhidalgo\\storyapi\\repositories\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9331296E-AA4C-038D-EDAE-1309B563F136}|StoryAPI\\StoryAPI.csproj|solutionrelative:storyapi\\repositories\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9331296E-AA4C-038D-EDAE-1309B563F136}|StoryAPI\\StoryAPI.csproj|c:\\users\\andy\\downloads\\actividadperusall_andyhidalgo (1)\\actividadperusall_andyhidalgo\\casoestudio1_andyhidalgo\\storyapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9331296E-AA4C-038D-EDAE-1309B563F136}|StoryAPI\\StoryAPI.csproj|solutionrelative:storyapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135B9740-3384-6247-FDB9-C4DF073BE8B7}|CasoEstudio1\\AgileBoard.Web.csproj|c:\\users\\andy\\downloads\\actividadperusall_andyhidalgo (1)\\actividadperusall_andyhidalgo\\casoestudio1_andyhidalgo\\casoestudio1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{135B9740-3384-6247-FDB9-C4DF073BE8B7}|CasoEstudio1\\AgileBoard.Web.csproj|solutionrelative:casoestudio1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7983F63E-212A-75B8-3A4A-15048DF77126}|EstimationAPI\\EstimationAPI.csproj|c:\\users\\andy\\downloads\\actividadperusall_andyhidalgo (1)\\actividadperusall_andyhidalgo\\casoestudio1_andyhidalgo\\estimationapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7983F63E-212A-75B8-3A4A-15048DF77126}|EstimationAPI\\EstimationAPI.csproj|solutionrelative:estimationapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7983F63E-212A-75B8-3A4A-15048DF77126}|EstimationAPI\\EstimationAPI.csproj|c:\\users\\andy\\downloads\\actividadperusall_andyhidalgo (1)\\actividadperusall_andyhidalgo\\casoestudio1_andyhidalgo\\estimationapi\\estimationapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7983F63E-212A-75B8-3A4A-15048DF77126}|EstimationAPI\\EstimationAPI.csproj|solutionrelative:estimationapi\\estimationapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9331296E-AA4C-038D-EDAE-1309B563F136}|StoryAPI\\StoryAPI.csproj|c:\\users\\andy\\downloads\\actividadperusall_andyhidalgo (1)\\actividadperusall_andyhidalgo\\casoestudio1_andyhidalgo\\storyapi\\storyapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9331296E-AA4C-038D-EDAE-1309B563F136}|StoryAPI\\StoryAPI.csproj|solutionrelative:storyapi\\storyapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9331296E-AA4C-038D-EDAE-1309B563F136}|StoryAPI\\StoryAPI.csproj|c:\\users\\andy\\downloads\\actividadperusall_andyhidalgo (1)\\actividadperusall_andyhidalgo\\casoestudio1_andyhidalgo\\storyapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9331296E-AA4C-038D-EDAE-1309B563F136}|StoryAPI\\StoryAPI.csproj|solutionrelative:storyapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7983F63E-212A-75B8-3A4A-15048DF77126}|EstimationAPI\\EstimationAPI.csproj|c:\\users\\andy\\downloads\\actividadperusall_andyhidalgo (1)\\actividadperusall_andyhidalgo\\casoestudio1_andyhidalgo\\estimationapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7983F63E-212A-75B8-3A4A-15048DF77126}|EstimationAPI\\EstimationAPI.csproj|solutionrelative:estimationapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9331296E-AA4C-038D-EDAE-1309B563F136}|StoryAPI\\StoryAPI.csproj|c:\\users\\andy\\downloads\\actividadperusall_andyhidalgo (1)\\actividadperusall_andyhidalgo\\casoestudio1_andyhidalgo\\storyapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9331296E-AA4C-038D-EDAE-1309B563F136}|StoryAPI\\StoryAPI.csproj|solutionrelative:storyapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135B9740-3384-6247-FDB9-C4DF073BE8B7}|CasoEstudio1\\AgileBoard.Web.csproj|c:\\users\\andy\\downloads\\actividadperusall_andyhidalgo (1)\\actividadperusall_andyhidalgo\\casoestudio1_andyhidalgo\\casoestudio1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{135B9740-3384-6247-FDB9-C4DF073BE8B7}|CasoEstudio1\\AgileBoard.Web.csproj|solutionrelative:casoestudio1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135B9740-3384-6247-FDB9-C4DF073BE8B7}|CasoEstudio1\\AgileBoard.Web.csproj|c:\\users\\andy\\downloads\\actividadperusall_andyhidalgo (1)\\actividadperusall_andyhidalgo\\casoestudio1_andyhidalgo\\casoestudio1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{135B9740-3384-6247-FDB9-C4DF073BE8B7}|CasoEstudio1\\AgileBoard.Web.csproj|solutionrelative:casoestudio1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 72,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:154:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:155:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:156:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:159:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PokemonEstimacion.cs",
+              "DocumentMoniker": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\StoryAPI\\Services\\PokemonEstimacion.cs",
+              "RelativeDocumentMoniker": "StoryAPI\\Services\\PokemonEstimacion.cs",
+              "ToolTip": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\StoryAPI\\Services\\PokemonEstimacion.cs",
+              "RelativeToolTip": "StoryAPI\\Services\\PokemonEstimacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T05:07:47.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FibonacciEstimacion.cs",
+              "DocumentMoniker": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\StoryAPI\\Services\\FibonacciEstimacion.cs",
+              "RelativeDocumentMoniker": "StoryAPI\\Services\\FibonacciEstimacion.cs",
+              "ToolTip": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\StoryAPI\\Services\\FibonacciEstimacion.cs",
+              "RelativeToolTip": "StoryAPI\\Services\\FibonacciEstimacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T05:07:24.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EstimacionBase.cs",
+              "DocumentMoniker": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\StoryAPI\\Services\\EstimacionBase.cs",
+              "RelativeDocumentMoniker": "StoryAPI\\Services\\EstimacionBase.cs",
+              "ToolTip": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\StoryAPI\\Services\\EstimacionBase.cs",
+              "RelativeToolTip": "StoryAPI\\Services\\EstimacionBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T05:06:34.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserStoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\StoryAPI\\Controllers\\UserStoryController.cs",
+              "RelativeDocumentMoniker": "StoryAPI\\Controllers\\UserStoryController.cs",
+              "ToolTip": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\StoryAPI\\Controllers\\UserStoryController.cs",
+              "RelativeToolTip": "StoryAPI\\Controllers\\UserStoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T04:30:41.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateStateCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\StoryAPI\\Commands\\UpdateStateCommand.cs",
+              "RelativeDocumentMoniker": "StoryAPI\\Commands\\UpdateStateCommand.cs",
+              "ToolTip": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\StoryAPI\\Commands\\UpdateStateCommand.cs",
+              "RelativeToolTip": "StoryAPI\\Commands\\UpdateStateCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T04:26:56.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateUserStoryCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\StoryAPI\\Commands\\CreateUserStoryCommand.cs",
+              "RelativeDocumentMoniker": "StoryAPI\\Commands\\CreateUserStoryCommand.cs",
+              "ToolTip": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\StoryAPI\\Commands\\CreateUserStoryCommand.cs",
+              "RelativeToolTip": "StoryAPI\\Commands\\CreateUserStoryCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T04:26:23.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICommands.cs",
+              "DocumentMoniker": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\StoryAPI\\Commands\\ICommands.cs",
+              "RelativeDocumentMoniker": "StoryAPI\\Commands\\ICommands.cs",
+              "ToolTip": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\StoryAPI\\Commands\\ICommands.cs",
+              "RelativeToolTip": "StoryAPI\\Commands\\ICommands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T04:24:18.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserStoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\StoryAPI\\Services\\UserStoryService.cs",
+              "RelativeDocumentMoniker": "StoryAPI\\Services\\UserStoryService.cs",
+              "ToolTip": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\StoryAPI\\Services\\UserStoryService.cs",
+              "RelativeToolTip": "StoryAPI\\Services\\UserStoryService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwCgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T04:22:15.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserStoryBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\StoryAPI\\Services\\UserStoryBuilder.cs",
+              "RelativeDocumentMoniker": "StoryAPI\\Services\\UserStoryBuilder.cs",
+              "ToolTip": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\StoryAPI\\Services\\UserStoryBuilder.cs",
+              "RelativeToolTip": "StoryAPI\\Services\\UserStoryBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T04:18:00.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsuarioViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\CasoEstudio1\\Models\\UsuarioViewModel.cs",
+              "RelativeDocumentMoniker": "CasoEstudio1\\Models\\UsuarioViewModel.cs",
+              "ToolTip": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\CasoEstudio1\\Models\\UsuarioViewModel.cs",
+              "RelativeToolTip": "CasoEstudio1\\Models\\UsuarioViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T03:54:43.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\CasoEstudio1\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "CasoEstudio1\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\CasoEstudio1\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "CasoEstudio1\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T04:03:53.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\CasoEstudio1\\Views\\Usuario\\Index.cshtml",
+              "RelativeDocumentMoniker": "CasoEstudio1\\Views\\Usuario\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\CasoEstudio1\\Views\\Usuario\\Index.cshtml",
+              "RelativeToolTip": "CasoEstudio1\\Views\\Usuario\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-26T04:08:53.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserStoryViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\CasoEstudio1\\Models\\UserStoryViewModel.cs",
+              "RelativeDocumentMoniker": "CasoEstudio1\\Models\\UserStoryViewModel.cs",
+              "ToolTip": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\CasoEstudio1\\Models\\UserStoryViewModel.cs",
+              "RelativeToolTip": "CasoEstudio1\\Models\\UserStoryViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T00:44:04.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUsuarioAPIClient.cs",
+              "DocumentMoniker": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\CasoEstudio1\\Services\\IUsuarioAPIClient.cs",
+              "RelativeDocumentMoniker": "CasoEstudio1\\Services\\IUsuarioAPIClient.cs",
+              "ToolTip": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\CasoEstudio1\\Services\\IUsuarioAPIClient.cs",
+              "RelativeToolTip": "CasoEstudio1\\Services\\IUsuarioAPIClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T03:58:28.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\StoryAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "StoryAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\StoryAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "StoryAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T00:57:54.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateUsuarioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\StoryAPI\\DTOs\\CreateUsuarioDTO.cs",
+              "RelativeDocumentMoniker": "StoryAPI\\DTOs\\CreateUsuarioDTO.cs",
+              "ToolTip": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\StoryAPI\\DTOs\\CreateUsuarioDTO.cs",
+              "RelativeToolTip": "StoryAPI\\DTOs\\CreateUsuarioDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T03:37:49.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateUserStoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\StoryAPI\\DTOs\\CreateUserStoryDTO.cs",
+              "RelativeDocumentMoniker": "StoryAPI\\DTOs\\CreateUserStoryDTO.cs",
+              "ToolTip": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\StoryAPI\\DTOs\\CreateUserStoryDTO.cs",
+              "RelativeToolTip": "StoryAPI\\DTOs\\CreateUserStoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T01:03:06.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IPokeAPIClient.cs",
+              "DocumentMoniker": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\CasoEstudio1\\Services\\IPokeAPIClient.cs",
+              "RelativeDocumentMoniker": "CasoEstudio1\\Services\\IPokeAPIClient.cs",
+              "ToolTip": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\CasoEstudio1\\Services\\IPokeAPIClient.cs",
+              "RelativeToolTip": "CasoEstudio1\\Services\\IPokeAPIClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T04:33:24.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\CasoEstudio1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CasoEstudio1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\CasoEstudio1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CasoEstudio1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T01:54:12.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IPokeAvatarService.cs",
+              "DocumentMoniker": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\CasoEstudio1\\Services\\IPokeAvatarService.cs",
+              "RelativeDocumentMoniker": "CasoEstudio1\\Services\\IPokeAvatarService.cs",
+              "ToolTip": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\CasoEstudio1\\Services\\IPokeAvatarService.cs",
+              "RelativeToolTip": "CasoEstudio1\\Services\\IPokeAvatarService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T04:39:45.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\StoryAPI\\Services\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "StoryAPI\\Services\\IUsuarioService.cs",
+              "ToolTip": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\StoryAPI\\Services\\IUsuarioService.cs",
+              "RelativeToolTip": "StoryAPI\\Services\\IUsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T03:40:55.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PokeAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\PokeAPI\\PokeAPI\\PokeAPI.csproj",
+              "RelativeDocumentMoniker": "PokeAPI\\PokeAPI\\PokeAPI.csproj",
+              "ToolTip": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\PokeAPI\\PokeAPI\\PokeAPI.csproj",
+              "RelativeToolTip": "PokeAPI\\PokeAPI\\PokeAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-26T04:47:52.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\PokeAPI\\PokeAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PokeAPI\\PokeAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\PokeAPI\\PokeAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PokeAPI\\PokeAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-26T04:43:29.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\CasoEstudio1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CasoEstudio1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\CasoEstudio1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CasoEstudio1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-04T02:04:32.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\StoryAPI\\Repositories\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "StoryAPI\\Repositories\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\StoryAPI\\Repositories\\IUsuarioRepository.cs",
+              "RelativeToolTip": "StoryAPI\\Repositories\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T03:39:51.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\StoryAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "StoryAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\StoryAPI\\appsettings.json",
+              "RelativeToolTip": "StoryAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-04T00:53:50.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\CasoEstudio1\\appsettings.json",
+              "RelativeDocumentMoniker": "CasoEstudio1\\appsettings.json",
+              "ToolTip": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\CasoEstudio1\\appsettings.json",
+              "RelativeToolTip": "CasoEstudio1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-04T00:54:56.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\EstimationAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EstimationAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\EstimationAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EstimationAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-04T04:05:04.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EstimationAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\EstimationAPI\\EstimationAPI.csproj",
+              "RelativeDocumentMoniker": "EstimationAPI\\EstimationAPI.csproj",
+              "ToolTip": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\EstimationAPI\\EstimationAPI.csproj",
+              "RelativeToolTip": "EstimationAPI\\EstimationAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-04T00:33:51.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "StoryAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\StoryAPI\\StoryAPI.csproj",
+              "RelativeDocumentMoniker": "StoryAPI\\StoryAPI.csproj",
+              "ToolTip": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\StoryAPI\\StoryAPI.csproj",
+              "RelativeToolTip": "StoryAPI\\StoryAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-04T00:30:06.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\StoryAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "StoryAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\StoryAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "StoryAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-04T02:20:34.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\EstimationAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "EstimationAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\EstimationAPI\\appsettings.json",
+              "RelativeToolTip": "EstimationAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-04T00:31:46.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\StoryAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "StoryAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\StoryAPI\\appsettings.Development.json",
+              "RelativeToolTip": "StoryAPI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-04T02:35:54.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\CasoEstudio1\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "CasoEstudio1\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\CasoEstudio1\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "CasoEstudio1\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-04T01:57:15.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\CasoEstudio1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CasoEstudio1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Andy\\Downloads\\ActividadPerusall_AndyHidalgo (1)\\ActividadPerusall_AndyHidalgo\\CasoEstudio1_AndyHidalgo\\CasoEstudio1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "CasoEstudio1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-04T01:54:36.804Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

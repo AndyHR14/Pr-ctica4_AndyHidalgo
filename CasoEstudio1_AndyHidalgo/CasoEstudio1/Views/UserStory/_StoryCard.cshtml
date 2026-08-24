@@ -1,0 +1,29 @@
+﻿@model UserStoryViewModel
+<div class="card mb-3 @ViewData["Color"]">
+    <div class="card-body">
+
+        @if (!string.IsNullOrEmpty(Model.AvatarId))
+        {
+            <img src="@Model.AvatarId" alt="Avatar Pokemon" style="width:60px;height:60px;" />
+        }
+
+        <h5>@Model.Titulo</h5>
+        <p>@Model.Descripcion</p>
+        <small><strong>Asignado:</strong> @Model.AsignadoA</small><br />
+        <small><strong>Estimación:</strong> @Model.Estimacion</small>
+        @if (Model.Estimacion > 10)
+        {
+            <span class="badge bg-danger">¡Alerta! La estimación es muy alta</span>
+        }
+        <form asp-action="Update" method="post">
+            <input type="hidden" name="id" value="@Model.Id" />
+            <select name="newState" class="form-select mt-2">
+                <option value="Backlog">Backlog</option>
+                <option value="ToDo">To Do</option>
+                <option value="InProgress">In Progress</option>
+                <option value="Done">Done</option>
+            </select>
+            <button type="submit" class="btn btn-primary btn-sm mt-2">Mover</button>
+        </form>
+    </div>
+</div>

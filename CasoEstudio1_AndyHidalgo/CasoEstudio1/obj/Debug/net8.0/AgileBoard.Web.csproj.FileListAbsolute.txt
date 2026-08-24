@@ -1,0 +1,204 @@
+C:\Projects\PAW_7Cuatri\CasoEstudio1\CasoEstudio1\bin\Debug\net8.0\appsettings.Development.json
+C:\Projects\PAW_7Cuatri\CasoEstudio1\CasoEstudio1\bin\Debug\net8.0\appsettings.json
+C:\Projects\PAW_7Cuatri\CasoEstudio1\CasoEstudio1\bin\Debug\net8.0\AgileBoard.Web.staticwebassets.runtime.json
+C:\Projects\PAW_7Cuatri\CasoEstudio1\CasoEstudio1\bin\Debug\net8.0\AgileBoard.Web.staticwebassets.endpoints.json
+C:\Projects\PAW_7Cuatri\CasoEstudio1\CasoEstudio1\bin\Debug\net8.0\AgileBoard.Web.exe
+C:\Projects\PAW_7Cuatri\CasoEstudio1\CasoEstudio1\bin\Debug\net8.0\AgileBoard.Web.deps.json
+C:\Projects\PAW_7Cuatri\CasoEstudio1\CasoEstudio1\bin\Debug\net8.0\AgileBoard.Web.runtimeconfig.json
+C:\Projects\PAW_7Cuatri\CasoEstudio1\CasoEstudio1\bin\Debug\net8.0\AgileBoard.Web.dll
+C:\Projects\PAW_7Cuatri\CasoEstudio1\CasoEstudio1\bin\Debug\net8.0\AgileBoard.Web.pdb
+C:\Projects\PAW_7Cuatri\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Projects\PAW_7Cuatri\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\PAW_7Cuatri\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.AssemblyInfoInputs.cache
+C:\Projects\PAW_7Cuatri\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.AssemblyInfo.cs
+C:\Projects\PAW_7Cuatri\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.csproj.CoreCompileInputs.cache
+C:\Projects\PAW_7Cuatri\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\PAW_7Cuatri\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.RazorAssemblyInfo.cache
+C:\Projects\PAW_7Cuatri\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.RazorAssemblyInfo.cs
+C:\Projects\PAW_7Cuatri\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Projects\PAW_7Cuatri\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Projects\PAW_7Cuatri\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Projects\PAW_7Cuatri\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Projects\PAW_7Cuatri\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\scopedcss\bundle\AgileBoard.Web.styles.css
+C:\Projects\PAW_7Cuatri\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\scopedcss\projectbundle\AgileBoard.Web.bundle.scp.css
+C:\Projects\PAW_7Cuatri\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Projects\PAW_7Cuatri\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Projects\PAW_7Cuatri\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Projects\PAW_7Cuatri\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Projects\PAW_7Cuatri\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\swae.build.ex.cache
+C:\Projects\PAW_7Cuatri\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Projects\PAW_7Cuatri\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.dll
+C:\Projects\PAW_7Cuatri\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\refint\AgileBoard.Web.dll
+C:\Projects\PAW_7Cuatri\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.pdb
+C:\Projects\PAW_7Cuatri\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.genruntimeconfig.cache
+C:\Projects\PAW_7Cuatri\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\ref\AgileBoard.Web.dll
+E:\Projects\CasoEstudio1\CasoEstudio1\CasoEstudio1\bin\Debug\net8.0\appsettings.Development.json
+E:\Projects\CasoEstudio1\CasoEstudio1\CasoEstudio1\bin\Debug\net8.0\appsettings.json
+E:\Projects\CasoEstudio1\CasoEstudio1\CasoEstudio1\bin\Debug\net8.0\AgileBoard.Web.staticwebassets.runtime.json
+E:\Projects\CasoEstudio1\CasoEstudio1\CasoEstudio1\bin\Debug\net8.0\AgileBoard.Web.staticwebassets.endpoints.json
+E:\Projects\CasoEstudio1\CasoEstudio1\CasoEstudio1\bin\Debug\net8.0\AgileBoard.Web.exe
+E:\Projects\CasoEstudio1\CasoEstudio1\CasoEstudio1\bin\Debug\net8.0\AgileBoard.Web.deps.json
+E:\Projects\CasoEstudio1\CasoEstudio1\CasoEstudio1\bin\Debug\net8.0\AgileBoard.Web.runtimeconfig.json
+E:\Projects\CasoEstudio1\CasoEstudio1\CasoEstudio1\bin\Debug\net8.0\AgileBoard.Web.dll
+E:\Projects\CasoEstudio1\CasoEstudio1\CasoEstudio1\bin\Debug\net8.0\AgileBoard.Web.pdb
+E:\Projects\CasoEstudio1\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\Projects\CasoEstudio1\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\CasoEstudio1\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.AssemblyInfoInputs.cache
+E:\Projects\CasoEstudio1\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.AssemblyInfo.cs
+E:\Projects\CasoEstudio1\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.csproj.CoreCompileInputs.cache
+E:\Projects\CasoEstudio1\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\CasoEstudio1\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.RazorAssemblyInfo.cache
+E:\Projects\CasoEstudio1\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.RazorAssemblyInfo.cs
+E:\Projects\CasoEstudio1\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\rjimswa.dswa.cache.json
+E:\Projects\CasoEstudio1\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+E:\Projects\CasoEstudio1\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+E:\Projects\CasoEstudio1\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Projects\CasoEstudio1\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\scopedcss\bundle\AgileBoard.Web.styles.css
+E:\Projects\CasoEstudio1\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\scopedcss\projectbundle\AgileBoard.Web.bundle.scp.css
+E:\Projects\CasoEstudio1\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\staticwebassets.build.json
+E:\Projects\CasoEstudio1\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\Projects\CasoEstudio1\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\staticwebassets.development.json
+E:\Projects\CasoEstudio1\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Projects\CasoEstudio1\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\swae.build.ex.cache
+E:\Projects\CasoEstudio1\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Projects\CasoEstudio1\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.dll
+E:\Projects\CasoEstudio1\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\refint\AgileBoard.Web.dll
+E:\Projects\CasoEstudio1\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.pdb
+E:\Projects\CasoEstudio1\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.genruntimeconfig.cache
+E:\Projects\CasoEstudio1\CasoEstudio1\CasoEstudio1\obj\Debug\net8.0\ref\AgileBoard.Web.dll
+E:\Projects\CasoEstudio1\CasoEstudio1_AndyHidalgo\CasoEstudio1\bin\Debug\net8.0\appsettings.Development.json
+E:\Projects\CasoEstudio1\CasoEstudio1_AndyHidalgo\CasoEstudio1\bin\Debug\net8.0\appsettings.json
+E:\Projects\CasoEstudio1\CasoEstudio1_AndyHidalgo\CasoEstudio1\bin\Debug\net8.0\AgileBoard.Web.staticwebassets.endpoints.json
+E:\Projects\CasoEstudio1\CasoEstudio1_AndyHidalgo\CasoEstudio1\bin\Debug\net8.0\AgileBoard.Web.staticwebassets.runtime.json
+E:\Projects\CasoEstudio1\CasoEstudio1_AndyHidalgo\CasoEstudio1\bin\Debug\net8.0\AgileBoard.Web.exe
+E:\Projects\CasoEstudio1\CasoEstudio1_AndyHidalgo\CasoEstudio1\bin\Debug\net8.0\AgileBoard.Web.deps.json
+E:\Projects\CasoEstudio1\CasoEstudio1_AndyHidalgo\CasoEstudio1\bin\Debug\net8.0\AgileBoard.Web.runtimeconfig.json
+E:\Projects\CasoEstudio1\CasoEstudio1_AndyHidalgo\CasoEstudio1\bin\Debug\net8.0\AgileBoard.Web.dll
+E:\Projects\CasoEstudio1\CasoEstudio1_AndyHidalgo\CasoEstudio1\bin\Debug\net8.0\AgileBoard.Web.pdb
+E:\Projects\CasoEstudio1\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\Projects\CasoEstudio1\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\CasoEstudio1\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.AssemblyInfoInputs.cache
+E:\Projects\CasoEstudio1\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.AssemblyInfo.cs
+E:\Projects\CasoEstudio1\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.csproj.CoreCompileInputs.cache
+E:\Projects\CasoEstudio1\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\CasoEstudio1\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.RazorAssemblyInfo.cache
+E:\Projects\CasoEstudio1\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.RazorAssemblyInfo.cs
+E:\Projects\CasoEstudio1\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\rjimswa.dswa.cache.json
+E:\Projects\CasoEstudio1\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+E:\Projects\CasoEstudio1\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+E:\Projects\CasoEstudio1\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Projects\CasoEstudio1\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\scopedcss\bundle\AgileBoard.Web.styles.css
+E:\Projects\CasoEstudio1\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\scopedcss\projectbundle\AgileBoard.Web.bundle.scp.css
+E:\Projects\CasoEstudio1\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\staticwebassets.build.json
+E:\Projects\CasoEstudio1\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\Projects\CasoEstudio1\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\staticwebassets.development.json
+E:\Projects\CasoEstudio1\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Projects\CasoEstudio1\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\swae.build.ex.cache
+E:\Projects\CasoEstudio1\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Projects\CasoEstudio1\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.dll
+E:\Projects\CasoEstudio1\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\refint\AgileBoard.Web.dll
+E:\Projects\CasoEstudio1\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.pdb
+E:\Projects\CasoEstudio1\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.genruntimeconfig.cache
+E:\Projects\CasoEstudio1\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\ref\AgileBoard.Web.dll
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\bin\Debug\net8.0\appsettings.json
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\bin\Debug\net8.0\AgileBoard.Web.staticwebassets.runtime.json
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\bin\Debug\net8.0\AgileBoard.Web.staticwebassets.endpoints.json
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\bin\Debug\net8.0\AgileBoard.Web.exe
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\bin\Debug\net8.0\AgileBoard.Web.deps.json
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\bin\Debug\net8.0\AgileBoard.Web.runtimeconfig.json
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\bin\Debug\net8.0\AgileBoard.Web.dll
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\bin\Debug\net8.0\AgileBoard.Web.pdb
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.AssemblyInfoInputs.cache
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.AssemblyInfo.cs
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.csproj.CoreCompileInputs.cache
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.RazorAssemblyInfo.cache
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.RazorAssemblyInfo.cs
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\scopedcss\bundle\AgileBoard.Web.styles.css
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\scopedcss\projectbundle\AgileBoard.Web.bundle.scp.css
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.dll
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\refint\AgileBoard.Web.dll
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.pdb
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.genruntimeconfig.cache
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\ref\AgileBoard.Web.dll
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\bin\Debug\net8.0\appsettings.json
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\bin\Debug\net8.0\AgileBoard.Web.staticwebassets.runtime.json
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\bin\Debug\net8.0\AgileBoard.Web.staticwebassets.endpoints.json
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\bin\Debug\net8.0\AgileBoard.Web.exe
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\bin\Debug\net8.0\AgileBoard.Web.deps.json
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\bin\Debug\net8.0\AgileBoard.Web.runtimeconfig.json
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\bin\Debug\net8.0\AgileBoard.Web.dll
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\bin\Debug\net8.0\AgileBoard.Web.pdb
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.AssemblyInfoInputs.cache
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.AssemblyInfo.cs
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.csproj.CoreCompileInputs.cache
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.RazorAssemblyInfo.cache
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.RazorAssemblyInfo.cs
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\scopedcss\bundle\AgileBoard.Web.styles.css
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\scopedcss\projectbundle\AgileBoard.Web.bundle.scp.css
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.dll
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\refint\AgileBoard.Web.dll
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.pdb
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.genruntimeconfig.cache
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\ref\AgileBoard.Web.dll
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\bin\Debug\net8.0\appsettings.json
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\bin\Debug\net8.0\AgileBoard.Web.staticwebassets.endpoints.json
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\bin\Debug\net8.0\AgileBoard.Web.staticwebassets.runtime.json
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\bin\Debug\net8.0\AgileBoard.Web.exe
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\bin\Debug\net8.0\AgileBoard.Web.deps.json
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\bin\Debug\net8.0\AgileBoard.Web.runtimeconfig.json
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\bin\Debug\net8.0\AgileBoard.Web.dll
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\bin\Debug\net8.0\AgileBoard.Web.pdb
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.AssemblyInfoInputs.cache
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.AssemblyInfo.cs
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.csproj.CoreCompileInputs.cache
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.RazorAssemblyInfo.cache
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.RazorAssemblyInfo.cs
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\scopedcss\bundle\AgileBoard.Web.styles.css
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\scopedcss\projectbundle\AgileBoard.Web.bundle.scp.css
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.dll
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\refint\AgileBoard.Web.dll
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.pdb
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\AgileBoard.Web.genruntimeconfig.cache
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\ref\AgileBoard.Web.dll
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\CasoEstudio1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

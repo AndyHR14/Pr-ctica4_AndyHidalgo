@@ -1,0 +1,64 @@
+﻿@model BoardViewModel
+@if (TempData["DecoratorMsg"] != null)
+{
+    <div class="alert alert-info alert-dismissible fade show" role="alert">
+        @TempData["DecoratorMsg"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+    </div>
+}
+<h2>Agile Board</h2>
+<div class="container">
+    <div class="row justify-content-center mb-4">
+        <div class="col-12 col-md-10 col-lg-8 text-center">
+            <h1 class="display-5 mb-3">Historias de usuario (Tablero)</h1>
+            <a asp-controller="Usuario" asp-action="Index" class="btn btn-secondary">
+                Gestionar Usuarios
+            </a>
+            <form method="post" action="/UserStory/Create" class="row g-2 justify-content-center align-items-center">
+                <div class="col-auto" style="min-width:180px;">
+                    <input name="Titulo" placeholder="Titulo" class="form-control" />
+                </div>
+                <div class="col-auto" style="min-width:180px;">
+                    <input name="Descripcion" placeholder="Descripcion" class="form-control" />
+                </div>
+                <div class="col-auto" style="min-width:180px;">
+                    <select name="UsuarioId" class="form-select">
+                        <option value="">-- Seleccionar usuario --</option>
+                        @foreach (var u in Model.Usuarios)
+                        {
+                            <option value="@u.Id">@u.Nombre @u.Apellidos</option>
+                        }
+                    </select>
+                </div>
+                <div class="col-auto">
+                    <button type="submit" class="btn btn-primary">Crear</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+<div class="row">
+
+    @foreach (var column in new[]
+        {
+        new { Title = "Backlog", Items = Model.Backlog, Color = "bg-light" },
+        new { Title = "ToDo", Items = Model.ToDo, Color = "bg-light" },
+        new { Title = "InProgress", Items = Model.InProgress, Color = "bg-light" },
+        new { Title = "Done", Items = Model.Done, Color = "bg-success"}
+        })
+    {
+        <partial name="_Column" model="column" />
+    }
+</div>
+@if (Model.Logs.Any())
+{
+    <div class="mt-4">
+        <h5>Historial de cambios de estado</h5>
+        <ul class="list-group">
+            @foreach (var log in Model.Logs)
+            {
+                <li class="list-group-item">@log</li>
+            }
+        </ul>
+    </div>
+}

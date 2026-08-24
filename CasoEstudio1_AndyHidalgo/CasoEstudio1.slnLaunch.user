@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "CasoEstudio1\\AgileBoard.Web.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

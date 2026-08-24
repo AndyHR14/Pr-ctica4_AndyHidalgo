@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CasoEstudio1/AgileBoard.Web.csproj" />
+  <Project Path="EstimationAPI/EstimationAPI.csproj" />
+  <Project Path="PokeAPI/PokeAPI/PokeAPI.csproj" Id="718f5547-ceef-497c-be97-8dea4d58655f" />
+  <Project Path="StoryAPI/StoryAPI.csproj" />
+</Solution>
