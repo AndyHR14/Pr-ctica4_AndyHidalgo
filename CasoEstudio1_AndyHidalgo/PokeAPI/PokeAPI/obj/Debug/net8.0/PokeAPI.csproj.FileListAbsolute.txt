@@ -1,0 +1,105 @@
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\bin\Debug\net8.0\PokeAPI.staticwebassets.endpoints.json
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\bin\Debug\net8.0\PokeAPI.exe
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\bin\Debug\net8.0\PokeAPI.deps.json
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\bin\Debug\net8.0\PokeAPI.runtimeconfig.json
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\bin\Debug\net8.0\PokeAPI.dll
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\bin\Debug\net8.0\PokeAPI.pdb
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\PokeAPI.csproj.AssemblyReference.cache
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\PokeAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\PokeAPI.AssemblyInfoInputs.cache
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\PokeAPI.AssemblyInfo.cs
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\PokeAPI.csproj.CoreCompileInputs.cache
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\PokeAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\PokeAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\scopedcss\bundle\PokeAPI.styles.css
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\PokeAPI.csproj.Up2Date
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\PokeAPI.dll
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\refint\PokeAPI.dll
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\PokeAPI.pdb
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\PokeAPI.genruntimeconfig.cache
+C:\Users\Andy\Downloads\CasoEstudio1_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\ref\PokeAPI.dll
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\bin\Debug\net8.0\PokeAPI.staticwebassets.endpoints.json
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\bin\Debug\net8.0\PokeAPI.exe
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\bin\Debug\net8.0\PokeAPI.deps.json
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\bin\Debug\net8.0\PokeAPI.runtimeconfig.json
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\bin\Debug\net8.0\PokeAPI.dll
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\bin\Debug\net8.0\PokeAPI.pdb
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\PokeAPI.csproj.AssemblyReference.cache
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\PokeAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\PokeAPI.AssemblyInfoInputs.cache
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\PokeAPI.AssemblyInfo.cs
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\PokeAPI.csproj.CoreCompileInputs.cache
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\PokeAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\PokeAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\scopedcss\bundle\PokeAPI.styles.css
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\PokeAPI.csproj.Up2Date
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\PokeAPI.dll
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\refint\PokeAPI.dll
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\PokeAPI.pdb
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\PokeAPI.genruntimeconfig.cache
+C:\Users\Andy\Downloads\Practica3_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\ref\PokeAPI.dll
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\bin\Debug\net8.0\PokeAPI.staticwebassets.endpoints.json
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\bin\Debug\net8.0\PokeAPI.exe
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\bin\Debug\net8.0\PokeAPI.deps.json
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\bin\Debug\net8.0\PokeAPI.runtimeconfig.json
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\bin\Debug\net8.0\PokeAPI.dll
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\bin\Debug\net8.0\PokeAPI.pdb
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\PokeAPI.csproj.AssemblyReference.cache
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\PokeAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\PokeAPI.AssemblyInfoInputs.cache
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\PokeAPI.AssemblyInfo.cs
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\PokeAPI.csproj.CoreCompileInputs.cache
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\PokeAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\PokeAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\scopedcss\bundle\PokeAPI.styles.css
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\PokeAPI.csproj.Up2Date
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\PokeAPI.dll
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\refint\PokeAPI.dll
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\PokeAPI.pdb
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\PokeAPI.genruntimeconfig.cache
+C:\Users\Andy\Downloads\ActividadPerusall_AndyHidalgo (1)\ActividadPerusall_AndyHidalgo\CasoEstudio1_AndyHidalgo\PokeAPI\PokeAPI\obj\Debug\net8.0\ref\PokeAPI.dll
